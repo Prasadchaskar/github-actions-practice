@@ -13,7 +13,7 @@ jobs:
 
         strategy:
             matrix:
-                pythin-version: [3.8.5]
+                pythin-version: [3.8]
         
         env:
             MODE: "dev"
